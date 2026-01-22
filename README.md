@@ -16,3 +16,7 @@ A React expense tracking application built with Vite and Tailwind CSS.
 - Reducer handles state transitions
 - Custom hook exposes a clean API
 - UI components are stateless and reusable
+
+## Live Demo
+
+https://expense-tracker-mu-jade.vercel.app/
